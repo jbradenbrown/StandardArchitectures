@@ -1,1 +1,1 @@
-# StandardArchitectures
+# Standard Architectures
